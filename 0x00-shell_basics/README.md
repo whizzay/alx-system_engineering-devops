@@ -13,3 +13,8 @@
 12. Wrote a script that prints the type of the file named iamafile that is in the /tmp directory
 13. Wrote a created a symbolic link to /bin/ls, named ls. The symbolic link was created in the current working directory
 14. Wrote a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
+15. Wrote a script that moves all files beginning with an uppercase letter to the directory /tmp/u
+16. Wrote a script that deleted all files in the current working directory that end with the character ~
+17. Wrote a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory. Using only two spaces (and lines) in the script
+18. Wrote a script that lists all the files and directories of the current directory, separated by commas (,). The directory names should end with a slash (/), Files and directories starting with a dot (.) should be listed, the listing should be alpha ordered, except for the directories . and .. which should be listed at the very beginning, only digits and letters are used to sort; Digits should come first, you can assume that all the files we will test with will have at least one letter or one digit, the listing should end with a new line
+19. Wrote a script that created a magic file school.mgc that can be used with the command file to detect School data files
